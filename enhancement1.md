@@ -8,5 +8,9 @@
 <p>These enhancements create a cleaner program overall because it has specific functions instead of everything being contained within one function like in the Java program. I have also included much-needed improvements in the use of comments to explain what each function is supposed to do and used in-line comments as further explanations for what a line does within a function. I didn’t have many issues come up while converting the code because the program itself was simple to begin with, however, I do anticipate issues to crop up when performing my other planned enhancements to this program.</p> 
 
 # Initial Java Program
+
+### Pet Class
+Link to [Pet.java](https://github.com/Crowemium/Crowemium.github.io/blob/main/Initial%20Java%20Program/PetBoarding/src/PetBag/Pet.java)
+
+### Main Function
 Link to [PetBag.java](https://github.com/Crowemium/Crowemium.github.io/blob/main/Initial%20Java%20Program/PetBoarding/src/PetBag/PetBag.java)
-Link to [Pet.java]()
