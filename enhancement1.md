@@ -6,3 +6,6 @@
 <p>The course outcomes I planned to meet with this enhancement were to show that I have the skills to translate a program from Java to Python to achieve the same functionality. However, I went slightly beyond that and included some other minor enhancements to improve the functionality, such as handling cat and dog check-ins separately, handling new and returning cats and dogs separately, and moving the grooming function (to be fully implemented later) to its own function as well.</p> 
 
 <p>These enhancements create a cleaner program overall because it has specific functions instead of everything being contained within one function like in the Java program. I have also included much-needed improvements in the use of comments to explain what each function is supposed to do and used in-line comments as further explanations for what a line does within a function. I didn’t have many issues come up while converting the code because the program itself was simple to begin with, however, I do anticipate issues to crop up when performing my other planned enhancements to this program.</p> 
+
+# Initial Java Program
+Link to [PetBag.java](
