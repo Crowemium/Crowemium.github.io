@@ -27,9 +27,11 @@
 <ins>Portfolio Overview</ins>
 
 My ePortfolio showcases three major enhancements to a pet boarding system which demonstrates my growth and capabilities across different areas of software development:
-1.	Language translation and Software engineering: The first enhancement demonstrates my ability to translate and interpret different programming languages while improving code structure and providing proper documentation through comments and functionality explanations.
-2.	Data Structures and Algorithms: The second enhancement shows my skills in implementing efficient data structures and algorithms, improving both functionality and maintainability by building upon the first enhancement.
-3.	Database Integration and Security: The third enhancement demonstrates my database design and implementation skills, along with security considerations in a full-stack application and development environment. Exhibiting a well-rounded understanding of application development.
+1.	<ins>Language translation and Software engineering:</ins> The first enhancement demonstrates my ability to translate and interpret different programming languages while improving code structure and providing proper documentation through comments and functionality explanations.
+   
+2.	<ins>Data Structures and Algorithms:</ins> The second enhancement shows my skills in implementing efficient data structures and algorithms, improving both functionality and maintainability by building upon the first enhancement.
+   
+3.	<ins>Database Integration and Security:</ins> The third enhancement demonstrates my database design and implementation skills, along with security considerations in a full-stack application and development environment. Exhibiting a well-rounded understanding of application development.
 
 <p>Together, these artifacts represent my journey from basic programming concepts to developing secure, efficient, and maintainable software solutions. They demonstrate my technical proficiency and my understanding of software development via best practices and professional coding standards. The progression of these enhancements reflects my ability to iterate and improve upon existing solutions, exhibiting a crucial skill in software development. Each enhancement builds upon the previous one and shows the software development process with increased complexity and sophistication in both design and implementation.</p>
 
