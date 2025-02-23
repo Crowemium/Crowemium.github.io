@@ -1,5 +1,5 @@
-# Rob Crowe's ePortfolio
-## Online Handle: Crowemium
+### Rob Crowe's ePortfolio
+### Online Handle: Crowemium
 
 # Professional Self-Assessment
 <p>Throughout my computer science program at Southern New Hampshire University, I have developed a comprehensive set of technical and professional skills that have prepared me for a carrer in software development. In my capstone course, I was tasked with achieving five course outcomes that demonstrate my abilities as a software engineer. Those course outcomes are team collaboration and communication, data structures and algorithms, software engineering, database design and implementation, and developing a security mindset.</p>
